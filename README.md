@@ -1,9 +1,8 @@
 # short-n-memorable-notes
 
-my own notes (coming soon)
+:warning: please see the **NOTICE.MD** file.
 
-as GitHub says:
-> Great repository names are short and memorable.
+
 
 ***
 
