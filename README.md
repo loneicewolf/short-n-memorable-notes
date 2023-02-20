@@ -1,7 +1,9 @@
 # short-n-memorable-notes
 
-:warning: please see the **NOTICE.MD** file.
 
+```patch
+-  please see the **NOTICE.MD** file.
+```
 
 
 ***
